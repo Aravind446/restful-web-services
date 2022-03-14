@@ -1,0 +1,6 @@
+package com.soap.webservices.soapcoursemanagement.soap;
+
+public class CourseDetails {
+
+    public GetCourseDetailsResponse processCourseDetailsRequest(GetCourseDetailsRequest request) {}
+}

@@ -1,0 +1,26 @@
+package com.spring.basics.spring;
+
+public class BinarySearchImpl {
+	
+	private SortAlgorithm sortAlgorithm;
+	
+	
+	public BinarySearchImpl(SortAlgorithm sortAlgorithm) {
+		super();
+		this.sortAlgorithm = sortAlgorithm;
+	}
+
+
+	public int binarySearch(int[] number,int numberToSearchFor) {
+		
+		
+		int[] sortedNumbers = sortAlgorithm.sort(number);
+		System.out.println(sortAlgorithm);
+		
+		return 3;  //return the result
+	
+//Implementing sorting Logic
+	//search the array
+	
+}
+}

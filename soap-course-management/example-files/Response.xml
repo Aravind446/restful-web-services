@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse xmlns="http://spring.com/course"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://spring.com/course course-details.xsd">
+<CourseDetails>
+	<id>123</id>
+	<name>Spring</name>
+	<description>Basics of spring course</description>
+</CourseDetails>
+</GetCourseDetailsResponse>

@@ -1,0 +1,7 @@
+package com.rest.webservices.restfulwebservices.versioning;
+
+public class Personv2 {
+
+	private String name;
+	
+}

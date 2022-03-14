@@ -1,0 +1,5 @@
+package com.soap.webservices.soapcoursemanagement.soap;
+
+public class CourseDetails {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsRequest xmlns="http://spring.com/course" xsi:schemaLocation="http://spring.com/course course-details.xsd">
+<id>123</id>
+</GetCourseDetailsRequest>

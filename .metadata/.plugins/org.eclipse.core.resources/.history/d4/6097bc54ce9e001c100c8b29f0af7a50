@@ -1,0 +1,20 @@
+package com.rest.webservices.restfulwebservices.versioning;
+
+public class Personv1 {
+
+	private Name name;
+
+	public Personv1(Name name) {
+		super();
+		this.name = name;
+	}
+
+	public Name getName() {
+		return name;
+	}
+
+	public void setName(Name name) {
+		this.name = name;
+	}
+	
+}

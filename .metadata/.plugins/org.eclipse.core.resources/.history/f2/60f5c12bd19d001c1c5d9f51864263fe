@@ -1,0 +1,13 @@
+package com.spring.basics.spring;
+
+public class BinarySearchImpl {
+	
+	public int binarySearch(int[] number,int numberToSearchFor) {
+		
+		return 3;  //return the result
+	
+//Implementing sorting Logic
+	//search the array
+	
+}
+}

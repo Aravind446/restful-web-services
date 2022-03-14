@@ -1,0 +1,12 @@
+package com.spring.basics.spring;
+
+import org.springframework.stereotype.Component;
+
+public class BubbleSortAlgorithm implements SortAlgorithm{
+	
+	public int[] sort(int[] number) {
+		
+		return number;
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.spring.basics.spring;
+
+public class QuickSortAlgorithm {
+	
+	public int[] sort(int[] number) {
+		
+		return number;
+	}
+
+}

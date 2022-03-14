@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="demo"/>
+<aop-project name="spring"/>
+<aop-project name="project"/>
+<aop-project name="soap-course-management"/>
+<aop-project name="restful-web-services"/>
+<aop-project name="database-demo"/>
+<aop-project name="springboot-in-10-steps"/>
+</aop-reference-model>
